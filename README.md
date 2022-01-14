@@ -8,6 +8,7 @@
 ***Objetivo General***
 
 Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
+
 ***Objetivos Específicos***
 
 1. Involucrar los conocimientos de circuitos, equivalente de Thevenin y Norton al hallar la máxima transferencia de potencia.
