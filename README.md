@@ -124,6 +124,9 @@ La potencia  fue la de 46.48 Watts sin embargo en el laboratorio experimentalmen
 El valor de Rl que obtiene la MTP es la de 1200 Ω porque es la resistencia es igual a la de 1200 Ω, ya que como estos 2 valores son iguales el voltaje sera igual al de la fuente, por lo que en la formula de voltaje por intensidad no arroja el valor mas grande de todos.
 
 ## 5. VIDEO
+
+https://youtu.be/EO-d0tyNCEE
+
 ## 6. CONCLUSIONES
 
 ## 7. BIBLIOGRAFÍA
