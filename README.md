@@ -36,7 +36,7 @@ Nos basamos en el circuito base que tenemos en nuestra guia de laboratorio, par 
 ![image](https://user-images.githubusercontent.com/93794279/149419767-4ab6ebb1-9f6d-4678-afb3-82a06a6081b1.png)
 
 
-**Resistecnia de 220 ohmios**
+**Resistencia de 220 ohmios**
 
 Armamos el ciruito base con nuenstra resitencia.
 
@@ -52,41 +52,41 @@ A continuación usamos el vatímetro para medir la potencia de la resitencia. En
 
 Este proceso se repetira con todas las resistencias de la tabla, a continuación veremos las capturas de las medidas del vatímetro.
 
-**Resistecnia de 470 ohmios**
+**Resistencia de 470 ohmios**
 
 ![image](https://user-images.githubusercontent.com/93794279/149421936-c3ad1020-020b-47e6-9405-269e6498761b.png)
 
-**Resistecnia de 680 ohmios**
+**Resistencia de 680 ohmios**
 
 ![image](https://user-images.githubusercontent.com/93794279/149424036-18ab12d7-9edb-482a-afac-7ff213d3a700.png)
 
-**Resistecnia de 820 ohmios**
+**Resistencia de 820 ohmios**
 
 ![image](https://user-images.githubusercontent.com/93794279/149424477-e750df42-42ea-4d7e-b155-bcf02ca317a5.png)
 
-**Resistecnia de 1000 ohmios**
+**Resistencia de 1000 ohmios**
 
 ![image](https://user-images.githubusercontent.com/93794279/149424278-a9e2fab8-a2fe-48e0-a532-5b45a97cd5df.png)
 
-**Resistecnia de 1500 ohmios**
+**Resistencia de 1500 ohmios**
 
 ![image](https://user-images.githubusercontent.com/93794279/149424400-1301a112-4eda-4d70-9bb4-8180ffd2b1ae.png)
 
 
-**Resistecnia de 1800 ohmios**
+**Resistencia de 1800 ohmios**
 
 ![image](https://user-images.githubusercontent.com/93794279/149424624-e6605438-0432-480f-b80e-f0d909378831.png)
 
-**Resistecnia de 2200 ohmios**
+**Resistencia de 2200 ohmios**
 
 ![image](https://user-images.githubusercontent.com/93794279/149424893-78dabd60-0136-4083-8fea-200f8fd32592.png)
 
-**Resistecnia de 3900 ohmios**
+**Resistencia de 3900 ohmios**
 
 ![image](https://user-images.githubusercontent.com/93794279/149424933-a60e1efc-cf9c-4a32-96e3-7afd675396a9.png)
 
 
-**Resistecnia de 4700 ohmios**
+**Resistencia de 4700 ohmios**
 
 ![image](https://user-images.githubusercontent.com/93794279/149424988-f1bad691-77b8-48af-b2ab-54e165fdc913.png)
 
