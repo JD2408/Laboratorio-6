@@ -14,20 +14,20 @@
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 *Materiales*
-1 Fuente de Voltaje de C.D.
-1 Multímetro Digital
-1 Vatímetro
-1 Resistor de 220 Ω
-1 Resistor de 470 Ω
-1 Resistor de 680 Ω
-1 Resistor de 820 Ω
-1 Resistor de 1 kΩ
-1 Resistor de 1.5 kΩ
-1 Resistor de 1.8 kΩ
-1 Resistor de 2.2 kΩ
-1 Resistor de 3.9 kΩ
-1 Resistor de 4.7 kΩ
-1 Protoboard
+1. 1 Fuente de Voltaje de C.D.
+2. 1 Multímetro Digital
+3. 1 Vatímetro
+4. 1 Resistor de 220 Ω
+5. 1 Resistor de 470 Ω
+6. 1 Resistor de 680 Ω
+7. 1 Resistor de 820 Ω
+8. 1 Resistor de 1 kΩ
+9. 1 Resistor de 1.5 kΩ
+10. 1 Resistor de 1.8 kΩ
+11. 1 Resistor de 2.2 kΩ
+12. 1 Resistor de 3.9 kΩ
+13. 1 Resistor de 4.7 kΩ
+14. 1 Protoboard
 
 *Procedimiento Experimental*
 
