@@ -6,10 +6,14 @@
  ## 1. OBJETIVOS
  
 ***Objetivo General***
-
+Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
 ***Objetivos Específicos***
-
+1. Involucrar los conocimientos de circuitos, equivalente de Thevenin y Norton al hallar la máxima transferencia de potencia.
+2. Conocer los fundamentos básicos de este teorema.
 ## 2. MARCO TEÓRICO
+
+![Diagrama en blanco (16)](https://user-images.githubusercontent.com/94129932/149525616-e911c6b9-7c85-4a6a-9924-2227e996d231.png)
+
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -128,7 +132,9 @@ El valor de Rl que obtiene la MTP es la de 1200 Ω porque es la resistencia es i
 https://youtu.be/EO-d0tyNCEE
 
 ## 6. CONCLUSIONES
-
+1. Se transfiere potencia máxima a una carga cuando la impedancia de carga es el complejo conjugado de
+la impedancia del circuito de control. 
+2. El teorema de la máxima transferencia de potencia, se deriva del teorema de THEVENIN y NORTON, con un poco de cálculo elemental se llego a la conclusión que la máxima potencia se da cuando la carga toma de resistencia de igual a la resistencia de THEVENIN o NORTON.
 ## 7. BIBLIOGRAFÍA
 
 - Albasolar, R. (2021, August 31). Cómo conectar un vatímetro. Albasolar. https://albasolar.es/como-conectar-un-vatimetro/
