@@ -108,16 +108,18 @@ Como hemos podido evidenciar durante las mediciones de potencia, observamos como
 ![image](https://user-images.githubusercontent.com/93794279/149425779-2e6a67fa-53f3-4f95-9586-9852f2cdd77e.png)
 
 ***Preguntas***
-¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
+
+- ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
 respuesta.
 
 El teorema de máxima transferencia de potencia establece que, dada una fuente, con una resistencia de fuente fijada de antemano, la resistencia de carga que maximiza la transferencia de potencia es aquella con un valor óhmico igual a la resistencia de fuente. Lo cuál hemos podido evidenciar en el laboratorio, claro esta que  no teniamos la resitencia igual a la resistencia fija, sin embargo podemos notar como cuanto mas nos acercamos al valor mas grande es la potencia y mientras mas nos alejamos mas pequeño se hace.
 
 
-¿Cuál fue la potencia máxima en RL? 
+- ¿Cuál fue la potencia máxima en RL? 
+
 La potencia  fue la de 46.48 Watts sin embargo en el laboratorio experimentalmente hablando no arrojo un valor de 0.050 W en la resistencia de 1500 ohmios, pero ya se demostro que el vatímetro del simulador nos arroja calculos erroneos y muy confusos, por lo que debemos basarnos en los datos calculados.
 
-¿Para qué valor de RL se obtiene la MTP? 
+- ¿Para qué valor de RL se obtiene la MTP? 
 
 El valor de Rl que obtiene la MTP es la de 1200 Ω porque es la resistencia es igual a la de 1200 Ω, ya que como estos 2 valores son iguales el voltaje sera igual al de la fuente, por lo que en la formula de voltaje por intensidad no arroja el valor mas grande de todos.
 
